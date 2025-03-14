@@ -22,3 +22,7 @@ This project demonstrates **Continuous Deployment (CD)** using **GitHub Actions*
 ```bash
     https://<your-github-username>.github.io/gh-deployment-workflow/
 ```
+
+
+## 🔹 Author
+Zoey 🚀
