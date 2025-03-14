@@ -20,9 +20,9 @@ This project demonstrates **Continuous Deployment (CD)** using **GitHub Actions*
    - `README.md`
 4. **View your live website** at:
 ```bash
-    https://<your-github-username>.github.io/gh-deployment-workflow/
+ https://deevinefayvour.github.io/04_gitHub_pages_deployment/
 ```
-
+- The project was taken from: https://roadmap.sh/projects/github-actions-deployment-workflow
 
 ## 🔹 Author
 Zoey 🚀
